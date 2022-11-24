@@ -28,10 +28,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="xenav">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link" href="javascript:void(0)">About us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about-us">About us</a></li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Products</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Projects</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Gallery</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="gallery">Gallery</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">News & Events</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="contact-us">Contact us</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)"><img src="images/hormann.png"></a> </li>

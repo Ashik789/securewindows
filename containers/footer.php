@@ -25,7 +25,7 @@
                     <h5>Useful Links</h5>
                     <ul>
                         <a href="javascript:void(0)"><li>About Us</li></a>
-                        <a href="javascript:void(0)"><li>Franchisee </li></a>
+                        <a href="franchisee"><li>Franchisee </li></a>
                         <a href="javascript:void(0)"><li>Projects </li></a>
                         <a href="javascript:void(0)"><li>Gallery </li></a>
                         <a href="javascript:void(0)"><li>News & Events </li></a>
