@@ -1,0 +1,9 @@
+<link href="images/favicon.png" rel="icon">
+    <link rel="stylesheet" href="css/bundle.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/slider.css">
+    <link rel="stylesheet" href="css/custome.css">
+    <link rel="stylesheet" href="css/responsive.css">
