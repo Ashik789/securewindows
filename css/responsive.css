@@ -38,6 +38,15 @@
     .product-list #filters li{display: inline-block;}
     .product-list #filters{overflow: auto; white-space: nowrap; margin: 20px 0px;}
     .rs-none{display: none;}
+    .product-details .bt-secondary{margin-bottom: 20px;}
+    .recent-blogs{margin-bottom: 8px; padding-bottom: 8px;}
+    .recent-blogs h6{margin-bottom: 6px;}
+    .blogs h4{margin-top: 10px;}
+    .news .nav-tabs{justify-content: center; text-align: center;}
+    .news .nav-tabs li a{min-width: 130px; display: block;}
+    .event-date{width: 20%;}
+    .event-image{width: 78%; margin: 0px;}
+    .event-content{width: 100%; margin-top: 20px;}
 
 }
 
@@ -47,6 +56,9 @@
     .testimonial-box{padding: 30px;}
     .count-box{padding: 10px;}
     #filters li span{min-width: 100px; padding: 10px 20px;}
+    .inner-product-overlay{width: 80%; left: 50%;}
+    .inner-product-overlay h2{font-size: 26px;}
+    .inner-product-overlay h5{font-size: 14px;}
    
 }
 

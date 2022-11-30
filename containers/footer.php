@@ -14,11 +14,11 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <h5>Products</h5>
                     <ul>
-                        <a href="javascript:void(0)"><li>Residential Doors</li></a>
-                        <a href="javascript:void(0)"><li>Commercial Doors </li></a>
-                        <a href="javascript:void(0)"><li>Industrial  Doors </li></a>
-                        <a href="javascript:void(0)"><li>Windows </li></a>
-                        <a href="javascript:void(0)"><li>Ventilators </li></a>
+                        <a href="products.html"><li>Residential Doors</li></a>
+                        <a href="products.html"><li>Commercial Doors </li></a>
+                        <a href="products.html"><li>Industrial  Doors </li></a>
+                        <a href="products.html"><li>Windows </li></a>
+                        <a href="products.html"><li>Ventilators </li></a>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
@@ -35,8 +35,8 @@
                 <div class="col-lg-2 col-md-4">
                     <h5>Quick Links</h5>
                     <ul>
-                        <a href="javascript:void(0)"><li>Contact Us</li></a>
-                        <a href="javascript:void(0)"><li>Enquiry </li></a>
+                        <a href="contact-us.html"><li>Contact Us</li></a>
+                        <a href="blog.html"><li>Blog </li></a>
                         <a href="javascript:void(0)"><li>Terms & Conditions </li></a>
                         <a href="javascript:void(0)"><li>Privacy Policy </li></a>
                     </ul>

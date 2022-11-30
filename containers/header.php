@@ -32,13 +32,13 @@
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Products</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Projects</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="gallery">Gallery</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">News & Events</a> </li>
+                        
                         <li class="nav-item"> <a class="nav-link" href="contact-us">Contact us</a> </li>
                         <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)"><img src="images/hormann.png"></a> </li>
                     </ul>
                 </div>
                 <div class="enquire-btn">
-                    <a href="javascript:void(0)" class="enquire_open"><button>Enquire Now</button></a>
+                   <a href="enquiry.html"><button>Enquire Now</button></a>
                 </div>
             </div>
           
@@ -54,13 +54,13 @@
                 <span class="btn-close" id="btn_sideNavClose"><i></i><i></i></span>
                 <nav class="side-nav w-100">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link" href="javascript:void(0)">About us</a></li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Products</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Projects</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Gallery</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">News & Events</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)">Contact us</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="javaScript:void(0)"><img src="images/hormann.png"></a> </li>
+                        <li class="nav-item"><a class="nav-link" href="about-us.html">About us</a></li>
+                       <li class="nav-item"> <a class="nav-link" href="products.html">Products</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="projects.html">Projects</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="gallery.html">Gallery</a> </li>
+                        
+                        <li class="nav-item"> <a class="nav-link" href="contact-us.html">Contact us</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="https://shaktihormann.com/" target="_blank"><img src="images/hormann.png"></a> </li>
                     </ul>
                 </nav>
             </div>
