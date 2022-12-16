@@ -40,7 +40,7 @@
                         <i class="fas fa-mobile-alt"></i>
                         <h5>Call Us</h5>
                         <p>8281 045 850 <br>
-                            8867 47 40 30</p>
+                            9947 34 58 50, 9947 84 58 50</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">

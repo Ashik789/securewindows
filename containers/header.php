@@ -2,12 +2,12 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p>Customer Care  : 8281 045850, 8867 474030</p>
+                    <p>Customer Care  : 8281 045850</p>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/SecureKizhisseri" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                    <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/secure_doors_n_windows_/" target="_blank"><i class="fab fa-instagram"></i></a>
                     <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
                     <a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a>
                 </div>
@@ -60,7 +60,7 @@
                         <li class="nav-item"> <a class="nav-link" href="gallery.html">Gallery</a> </li>
                         
                         <li class="nav-item"> <a class="nav-link" href="contact-us.html">Contact us</a> </li>
-                        <li class="nav-item"> <a class="nav-link" href="https://shaktihormann.com/" target="_blank"><img src="images/hormann.png"></a> </li>
+                         <!-- <li class="nav-item"> <a class="nav-link" href="https://shaktihormann.com/" target="_blank"><img src="images/hormann.png"></a> </li> -->
                     </ul>
                 </nav>
             </div>

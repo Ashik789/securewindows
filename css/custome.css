@@ -144,7 +144,7 @@ input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; -moz-a
  margin-bottom: 30px; }
 .contact-icon h5{font-size: 18px; margin-bottom: 10px;}
 .contact-icon i{margin-bottom: 20px; font-size: 2rem; color: #179A9D;}
-.contact-map{width: 100%; height: 350px; filter: grayscale(100%);}
+.contact-map{width: 100%; height: 350px;}
 .aboutus .our-story-img{margin: 30px 0px; border-top-right-radius: 180px;}
 .aboutus h4{line-height: 32px;}
 .aboutus h4 b{color: #179A9D;}

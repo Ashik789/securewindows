@@ -6,10 +6,8 @@
                 </div>
                 <div class="col-lg-4 col-md-12 rs-textcenter">
                     <h5>Contact Us</h5>
-                    <p>8281 045 850, 8867 47 40 30  <br> <a href="mailto:mail@secure.com" class="active">mail@secure.com</a> </p>
-                    <p>PO Box 105642, Mussafah, Shabiya Khalifa, 
-                        Perinthalmanna, Malappuram,
-                        Kerala - 676305</p>
+                    <p>8281 045 850, 9947 34 58 50, 9947 84 58 50  <br> <a href="mailto:securesteels@gmail.com" class="active">securesteels@gmail.com</a> </p>
+                    <p>VK Metals, Manjeri - Kizhisseri Rd, Cheruparamba, Kuzhimanna, Kerala 673641</p>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
                     <h5>Products</h5>
@@ -46,9 +44,9 @@
                     <p>© 2022 <span>Secure Windows & Doors</span>. All rights reserved.</p>
                 </div>
                 <div class="col-md-4 text-right rs-textcenter">
-                    <a href="javaScript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/SecureKizhisseri" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="javaScript:void(0)"><i class="fab fa-twitter"></i></a>
-                    <a href="javaScript:void(0)"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/secure_doors_n_windows_/" target="_blank"><i class="fab fa-instagram"></i></a>
                     <a href="javaScript:void(0)"><i class="fab fa-linkedin-in"></i></a>
                     <a href="javaScript:void(0)"><i class="fab fa-whatsapp"></i></a>
                 </div>
